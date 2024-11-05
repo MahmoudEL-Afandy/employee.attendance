@@ -1,0 +1,522 @@
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\appsettings.Development.json
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\appsettings.json
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\FGraduation Project.staticwebassets.runtime.json
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\FGraduation Project.exe
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\FGraduation Project.deps.json
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\FGraduation Project.runtimeconfig.json
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\FGraduation Project.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\FGraduation Project.pdb
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Azure.Core.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Azure.Identity.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Humanizer.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.CodeDom.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.Memory.Data.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.csproj.AssemblyReference.cache
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.AssemblyInfoInputs.cache
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.AssemblyInfo.cs
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.csproj.CoreCompileInputs.cache
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.MvcApplicationPartsAssemblyInfo.cs
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.MvcApplicationPartsAssemblyInfo.cache
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.FGraduation Project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.build.FGraduation Project.props
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FGraduation Project.props
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FGraduation Project.props
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\staticwebassets.pack.json
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\staticwebassets.build.json
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\staticwebassets.development.json
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\scopedcss\bundle\FGraduation Project.styles.css
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.csproj.CopyComplete
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.dll
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\refint\FGraduation Project.dll
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.pdb
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.genruntimeconfig.cache
+E:\my studies\FGraduation Project\FGraduation Project\obj\Debug\net7.0\ref\FGraduation Project.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\zxing.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\ZXing.Windows.Compatibility.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\my studies\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\appsettings.Development.json
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\appsettings.json
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\FGraduation Project.staticwebassets.runtime.json
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\FGraduation Project.exe
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\FGraduation Project.deps.json
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\FGraduation Project.runtimeconfig.json
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\FGraduation Project.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\FGraduation Project.pdb
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Azure.Core.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Azure.Identity.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Humanizer.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.CodeDom.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\zxing.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\ZXing.Windows.Compatibility.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Fofo\FGraduation Project\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.csproj.AssemblyReference.cache
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.AssemblyInfoInputs.cache
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.AssemblyInfo.cs
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.csproj.CoreCompileInputs.cache
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.MvcApplicationPartsAssemblyInfo.cs
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.MvcApplicationPartsAssemblyInfo.cache
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\staticwebassets.build.json
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\staticwebassets.development.json
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.FGraduation Project.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.build.FGraduation Project.props
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FGraduation Project.props
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FGraduation Project.props
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\scopedcss\bundle\FGraduation Project.styles.css
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.csproj.CopyComplete
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.dll
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\refint\FGraduation Project.dll
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.pdb
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\FGraduation Project.genruntimeconfig.cache
+F:\Fofo\FGraduation Project\FGraduation Project\obj\Debug\net7.0\ref\FGraduation Project.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\appsettings.json
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.staticwebassets.runtime.json
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.exe
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.deps.json
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.runtimeconfig.json
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.pdb
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\zxing.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\ZXing.Windows.Compatibility.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.csproj.AssemblyReference.cache
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.AssemblyInfoInputs.cache
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.AssemblyInfo.cs
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.csproj.CoreCompileInputs.cache
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.FGraduation Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.build.FGraduation Project.props
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FGraduation Project.props
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FGraduation Project.props
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\scopedcss\bundle\FGraduation Project.styles.css
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.csproj.CopyComplete
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\refint\FGraduation Project.dll
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.pdb
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.genruntimeconfig.cache
+C:\Users\zas\Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\ref\FGraduation Project.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\appsettings.json
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.staticwebassets.runtime.json
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.exe
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.deps.json
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.runtimeconfig.json
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.pdb
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\zxing.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\ZXing.Windows.Compatibility.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.csproj.AssemblyReference.cache
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.AssemblyInfoInputs.cache
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.AssemblyInfo.cs
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.csproj.CoreCompileInputs.cache
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.FGraduation Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.build.FGraduation Project.props
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FGraduation Project.props
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FGraduation Project.props
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\scopedcss\bundle\FGraduation Project.styles.css
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\refint\FGraduation Project.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.pdb
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.genruntimeconfig.cache
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\ref\FGraduation Project.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation Project --final\FGraduation Project\obj\Debug\net7.0\FGraduat.EE13878C.Up2Date
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\appsettings.json
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.staticwebassets.runtime.json
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.exe
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.deps.json
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.runtimeconfig.json
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.pdb
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\zxing.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\ZXing.Windows.Compatibility.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.csproj.AssemblyReference.cache
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.AssemblyInfoInputs.cache
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.AssemblyInfo.cs
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.csproj.CoreCompileInputs.cache
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.FGraduation Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.build.FGraduation Project.props
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FGraduation Project.props
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FGraduation Project.props
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\scopedcss\bundle\FGraduation Project.styles.css
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduat.EE13878C.Up2Date
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\refint\FGraduation Project.dll
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.pdb
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.genruntimeconfig.cache
+C:\Users\Mz-Techno\Downloads\Telegram Desktop\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\ref\FGraduation Project.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\appsettings.Development.json
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\appsettings.json
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.staticwebassets.runtime.json
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.exe
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.deps.json
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.runtimeconfig.json
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\FGraduation Project.pdb
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Azure.Core.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Azure.Identity.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Humanizer.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.CodeDom.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.Memory.Data.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\zxing.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\ZXing.Windows.Compatibility.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.csproj.AssemblyReference.cache
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.AssemblyInfoInputs.cache
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.AssemblyInfo.cs
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.csproj.CoreCompileInputs.cache
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.MvcApplicationPartsAssemblyInfo.cs
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.MvcApplicationPartsAssemblyInfo.cache
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\staticwebassets.build.json
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\staticwebassets.development.json
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.FGraduation Project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.build.FGraduation Project.props
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FGraduation Project.props
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FGraduation Project.props
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\staticwebassets.pack.json
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\scopedcss\bundle\FGraduation Project.styles.css
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduat.EE13878C.Up2Date
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\refint\FGraduation Project.dll
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.pdb
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\FGraduation Project.genruntimeconfig.cache
+E:\my studies\FGraduation-Project--final\FGraduation Project\obj\Debug\net7.0\ref\FGraduation Project.dll
