@@ -92,8 +92,7 @@ Follow us on social media:
 
  
 
-Thank you for visiting **E-Commerce Shopping Online one of Mahmoud Elafandy websites**! 
-
+Thank you for visiting 
  
 
  
