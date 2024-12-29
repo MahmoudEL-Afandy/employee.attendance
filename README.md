@@ -39,7 +39,7 @@ My best Project , Because it is an untraditional project , This project is an Em
 
 - **Email Sender**: The system sending emails for users that forgot password and need to reset it. 
 
-- **RESTful API**:  is a web service architecture that follows the principles of Representational State Transfer, utilizing standard HTTP methods to enable communication between clients and servers in a stateless manner.
+- **RESTful**:  is a web service architecture that follows the principles of Representational State Transfer, utilizing standard HTTP methods to enable communication between clients and servers in a stateless manner.
 
 - **Entity Framework Core**: Implemented Entity Framework Core with code-first migrations for database management.
 
