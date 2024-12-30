@@ -17,7 +17,7 @@ This project is an EAMS web Api for online management attendance.
 
 ## About 
 
-My best Project , Because it is an untraditional project , This project is an Employee Attendance Management System  for managing Attendance, and facilitate attendance recording for employees and facilitate management for managers , built using .NET 8 Core Web API. The application leverages various modern technologies and frameworks to provide a comprehensive and scalable solution for online management the attendance .
+My best Project , Because it is an untraditional project , This project is an Employee Attendance Management System  for managing Attendance, and facilitate attendance recording for employees and facilitate management for managers , built using .NET 8 Web API. The application leverages various modern technologies and frameworks to provide a comprehensive and scalable solution for online management the attendance .
 
 ## Features 
 
@@ -48,7 +48,7 @@ My best Project , Because it is an untraditional project , This project is an Em
 
 ## Technologies, and Packages Used 
 
-- ASP.Net API .
+- .Net 8 web API .
 - C#, and T-SQL.
 - Entity Framework core.
 - LINQ.
